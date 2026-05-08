@@ -27,7 +27,8 @@
 .ssh/
 .Trash/
 .vim/
-.zcompdump/
+.viminfo
+.zcompdump
 .zsh_history
 .zsh_sessions/
 Applications/
