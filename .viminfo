@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1778266911,,"wq!"
+|2,0,1778268249,,"wq!"
 :q
 |2,0,1778037652,,"q"
 :w
@@ -133,69 +133,115 @@ $
 	export STARSHIP_CONFIG=~/.config/starship/starship.toml
 |3,0,0,1,1,0,1778266882,"export STARSHIP_CONFIG=~/.config/starship/starship.toml"
 ""1	LINE	0
-	export STARSHIP_CONFIG=~/.config/starship/starship.toml
-|3,1,1,1,1,0,1778266906,"export STARSHIP_CONFIG=~/.config/starship/starship.toml"
+	.config/
+|3,1,1,1,1,0,1778267977,".config/"
 "2	LINE	0
-	
-|3,0,2,1,1,0,1778123852,""
+	export STARSHIP_CONFIG=~/.config/starship/starship.toml
+|3,0,2,1,1,0,1778266906,"export STARSHIP_CONFIG=~/.config/starship/starship.toml"
 "3	LINE	0
-	    {
-|3,0,3,1,1,0,1778123842,"    {"
+	
+|3,0,3,1,1,0,1778123852,""
 "4	LINE	0
-	    },
-|3,0,4,1,1,0,1778123840,"    },"
+	    {
+|3,0,4,1,1,0,1778123842,"    {"
 "5	LINE	0
 	    },
-|3,0,5,1,1,0,1778123812,"    },"
+|3,0,5,1,1,0,1778123840,"    },"
 "6	LINE	0
-		}
-|3,0,6,1,1,0,1778123801,"	}"
+	    },
+|3,0,6,1,1,0,1778123812,"    },"
 "7	LINE	0
-		    theme = "dracula",
-|3,0,7,1,1,0,1778123799,"	    theme = \"dracula\","
+		}
+|3,0,7,1,1,0,1778123801,"	}"
 "8	LINE	0
-		opts = {
-|3,0,8,1,1,0,1778123799,"	opts = {"
+		    theme = "dracula",
+|3,0,8,1,1,0,1778123799,"	    theme = \"dracula\","
 "9	LINE	0
-		},
-|3,0,9,1,1,0,1778123797,"	},"
+		opts = {
+|3,0,9,1,1,0,1778123799,"	opts = {"
 "-	CHAR	0
 	screen-256color
 |3,0,36,0,1,0,1778124978,"screen-256color"
 
 # File marks:
-'0  15  0  ~/.zshrc
-|4,48,15,0,1778266911,"~/.zshrc"
-'1  16  54  ~/.zshrc
-|4,49,16,54,1778266656,"~/.zshrc"
-'2  15  54  ~/.zshrc
-|4,50,15,54,1778266656,"~/.zshrc"
-'3  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
-|4,51,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
-'4  2  37  ~/.config/tmux/tmux.conf
-|4,52,2,37,1778124989,"~/.config/tmux/tmux.conf"
-'5  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,53,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
-'6  8  24  ~/.config/nvim/lua/config/options.lua
-|4,54,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
-'7  8  24  ~/.config/nvim/lua/config/options.lua
-|4,55,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
-'8  161  24  ~/.config/starship.toml
-|4,56,161,24,1778038558,"~/.config/starship.toml"
-'9  161  24  ~/.config/starship.toml
-|4,57,161,24,1778038558,"~/.config/starship.toml"
+'0  32  13  ~/.gitignore
+|4,48,32,13,1778268249,"~/.gitignore"
+'1  41  5  ~/.gitignore
+|4,49,41,5,1778267786,"~/.gitignore"
+'2  9  5  ~/.gitignore
+|4,50,9,5,1778267786,"~/.gitignore"
+'3  15  0  ~/.zshrc
+|4,51,15,0,1778266911,"~/.zshrc"
+'4  16  54  ~/.zshrc
+|4,52,16,54,1778266656,"~/.zshrc"
+'5  15  54  ~/.zshrc
+|4,53,15,54,1778266656,"~/.zshrc"
+'6  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,54,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+'7  2  37  ~/.config/tmux/tmux.conf
+|4,55,2,37,1778124989,"~/.config/tmux/tmux.conf"
+'8  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
+|4,56,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
+'9  8  24  ~/.config/nvim/lua/config/options.lua
+|4,57,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
 
 # Jumplist (newest first):
+-'  32  13  ~/.gitignore
+|4,39,32,13,1778268249,"~/.gitignore"
+-'  33  0  ~/.gitignore
+|4,39,33,0,1778267926,"~/.gitignore"
+-'  41  5  ~/.gitignore
+|4,39,41,5,1778267786,"~/.gitignore"
+-'  9  5  ~/.gitignore
+|4,39,9,5,1778267786,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1778267713,"~/.gitignore"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1778266911,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1778266911,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1778266911,"~/.zshrc"
 -'  15  0  ~/.zshrc
 |4,39,15,0,1778266911,"~/.zshrc"
 -'  3  0  ~/.zshrc
 |4,39,3,0,1778266905,"~/.zshrc"
+-'  3  0  ~/.zshrc
+|4,39,3,0,1778266905,"~/.zshrc"
+-'  3  0  ~/.zshrc
+|4,39,3,0,1778266905,"~/.zshrc"
+-'  3  0  ~/.zshrc
+|4,39,3,0,1778266905,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266879,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266879,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266879,"~/.zshrc"
 -'  1  0  ~/.zshrc
 |4,39,1,0,1778266879,"~/.zshrc"
 -'  16  54  ~/.zshrc
 |4,39,16,54,1778266656,"~/.zshrc"
 -'  15  54  ~/.zshrc
 |4,39,15,54,1778266656,"~/.zshrc"
+-'  16  54  ~/.zshrc
+|4,39,16,54,1778266656,"~/.zshrc"
+-'  15  54  ~/.zshrc
+|4,39,15,54,1778266656,"~/.zshrc"
+-'  16  54  ~/.zshrc
+|4,39,16,54,1778266656,"~/.zshrc"
+-'  15  54  ~/.zshrc
+|4,39,15,54,1778266656,"~/.zshrc"
+-'  16  54  ~/.zshrc
+|4,39,16,54,1778266656,"~/.zshrc"
+-'  15  54  ~/.zshrc
+|4,39,15,54,1778266656,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266599,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266599,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1778266599,"~/.zshrc"
 -'  1  0  ~/.zshrc
 |4,39,1,0,1778266599,"~/.zshrc"
 -'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
@@ -206,6 +252,54 @@ $
 |4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
 -'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
 |4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  2  14  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,2,14,1778264909,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+-'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+|4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
 -'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
 |4,39,1,0,1778264897,"~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
 -'  1  0  ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
@@ -230,6 +324,54 @@ $
 |4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
 -'  2  37  ~/.config/tmux/tmux.conf
 |4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
+-'  2  37  ~/.config/tmux/tmux.conf
+|4,39,2,37,1778124989,"~/.config/tmux/tmux.conf"
 -'  1  0  ~/.config/tmux/tmux.conf
 |4,39,1,0,1778124960,"~/.config/tmux/tmux.conf"
 -'  1  0  ~/.config/tmux/tmux.conf
@@ -244,150 +386,18 @@ $
 |4,39,1,0,1778124960,"~/.config/tmux/tmux.conf"
 -'  1  0  ~/.config/tmux/tmux.conf
 |4,39,1,0,1778124960,"~/.config/tmux/tmux.conf"
--'  1  0  ~/.config/tmux/tmux.conf
-|4,39,1,0,1778124960,"~/.config/tmux/tmux.conf"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  13  12  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,13,12,1778124148,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  1  0  ~/.config/nvim/lua/plugins/colorscheme.lua
-|4,39,1,0,1778123515,"~/.config/nvim/lua/plugins/colorscheme.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  8  24  ~/.config/nvim/lua/config/options.lua
-|4,39,8,24,1778123119,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
--'  1  0  ~/.config/nvim/lua/config/options.lua
-|4,39,1,0,1778123060,"~/.config/nvim/lua/config/options.lua"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1778268246	0
+	"	32	13
+	^	32	14
+	.	32	13
+	+	41	5
+	+	35	0
+	+	30	10
+	+	32	13
 
 > ~/.zshrc
 	*	1778266909	0
@@ -1443,9 +1453,3 @@ $
 	^	21	0
 	.	21	0
 	+	21	0
-
-> ~/VULNHUB/Sedna
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
