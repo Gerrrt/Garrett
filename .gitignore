@@ -6,6 +6,7 @@
 .CFUserTextEncoding
 .config/
 .copilot/
+.cpanm/
 .cups/
 .docker/
 .DS_Store
@@ -22,6 +23,7 @@
 .packettracer
 .purple/
 .python_history
+.rbenv/
 .rustup/
 .shiv/
 .ssh/
@@ -39,6 +41,7 @@ go/
 Library/
 Movies/
 Music/
+perl5/
 Pictures/
 Public/
 Sites/

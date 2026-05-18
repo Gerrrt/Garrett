@@ -18,3 +18,4 @@ alias v=nvim
 alias vim=nvim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
+eval "$(rbenv init - zsh)"
