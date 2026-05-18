@@ -13,3 +13,8 @@ if [ -z "$TMUX" ]; then
     tmux attach || tmux new-session
 fi
 
+# Neovim
+alias v=nvim
+alias vim=nvim
+export VISUAL=nvim
+export EDITOR="$VISUAL"
